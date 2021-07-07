@@ -29,3 +29,7 @@ This project is about create  and end to end pipeline collecting covid data in u
 
 4. Create dashboard visualization using google data studio.
 
+## Library
+requests<br>
+pandas
+
